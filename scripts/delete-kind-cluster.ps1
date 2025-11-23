@@ -1,2 +1,2 @@
 # delete exsisting cluster
-kubectl delete cluster
+kind delete cluster
